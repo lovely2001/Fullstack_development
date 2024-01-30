@@ -19,3 +19,10 @@ footer {
   color: midnightblue;
 }
 
+.creative{
+  color:midnightblue;
+}
+
+@media(max-width:600px){
+  
+}
